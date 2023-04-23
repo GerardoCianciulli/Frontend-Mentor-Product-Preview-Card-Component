@@ -118,6 +118,11 @@ main {
     background-color: var(--dark-cyan);
 }
 
+.add-to-cart:hover, .add-to-cart:focus-visible {
+    background-color: rgb(26,64,49);
+    cursor: pointer;
+}
+
 .add-to-cart svg {
     float: left;
     fill: var(--white);
