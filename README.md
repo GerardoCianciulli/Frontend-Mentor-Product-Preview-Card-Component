@@ -2,12 +2,6 @@
 
 ![Design preview for the Product preview card component coding challenge](./assets/design/desktop-preview.jpg)
 
-## Table of contents
-
-- [The challenge](#the-challenge)
-- [Built with](#built-with)
-- [Links](#links)
-
 ## The challenge
 
 Build out this product preview card component and get it looking as close to the design as possible.
