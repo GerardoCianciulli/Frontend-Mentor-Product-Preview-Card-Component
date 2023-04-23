@@ -1,6 +1,12 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](./assets/design/desktop-preview.jpg)
+
+## Table of contents
+
+- [The challenge](#the-challenge)
+- [Built with](#built-with)
+- [Links](#links)
 
 ## The challenge
 
@@ -12,3 +18,14 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
+
+## Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- CSS Grid
+
+### Links
+
+- Live Site URL: (https://gerardocianciulli.github.io/Frontend-Mentor-Product-Preview-Card-Component/)
+- Frontend Mentor - [@GerardoCianciulli](https://www.frontendmentor.io/profile/GerardoCianciulli)
