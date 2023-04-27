@@ -47,7 +47,6 @@ main {
     display: flex;
     flex-direction: column;
     margin: 1.75rem 1rem;
-    /* height: calc(100% - 3.5rem); */
     background-color: var(--white);
     overflow: hidden;
 }
@@ -129,7 +128,8 @@ main {
     margin-right: 1rem;
 }
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; text-align: center;
+    margin: auto;
 }
 
 .attribution a { 
@@ -148,7 +148,6 @@ main {
     .product-preview-card {
         flex-direction: row;
         max-width: 37.5rem;
-        /* height: unset; */
     }
 
     .product-image{
